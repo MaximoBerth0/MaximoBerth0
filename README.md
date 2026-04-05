@@ -7,8 +7,6 @@ I also enjoy architecture design and planning.
 
 I keep myself constantly learning, mainly through personal projects and collaborations.
 
----
-
 ### Stack
 
 ![Go](https://img.shields.io/badge/Go-main-%2300ADD8?logo=go&logoColor=white)
@@ -23,6 +21,15 @@ I keep myself constantly learning, mainly through personal projects and collabor
 - High concurrency
 - Security & performance
 - Architecture design & planning
+
+--- 
+
+
+### Beyond the keyboard
+
+-  I enjoy running and cycling outdoors 🚴
+- I train martial arts as a hobby 🥋 
+- Powered by coffee ☕ 
 
 ---
 
