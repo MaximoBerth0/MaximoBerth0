@@ -2,13 +2,12 @@
 ## Hey, I'm Maximo Berth 👋
 
 I'm interested in understanding how systems work at scale —
-distributed systems, high concurrency, security, and performance.
-I also enjoy architecture design and planning.
+designing and engaging with systems built on security by design
+and near-total fault tolerance.
 
 I keep myself constantly learning, mainly through personal projects and collaborations.
 
 ### Stack
-
 ![Go](https://img.shields.io/badge/Go-main-%2300ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?logo=fastapi&logoColor=white)
@@ -16,13 +15,11 @@ I keep myself constantly learning, mainly through personal projects and collabor
 ---
 
 ### Interests
-
-- Distributed systems
-- High concurrency
-- Security & performance
+- Distributed systems & high concurrency
+- Observability (tracing, metrics, structured logging)
+- Caching strategies (in-memory, distributed, cache invalidation)
+- Security & performance optimization
 - Architecture design & planning
-
---- 
 
 
 ### Beyond the keyboard
