@@ -1,16 +1,20 @@
 
-## Hey, I'm Maximo Berth 👋
+## Hi, I'm Maximo Berth 👋
 
-I'm interested in understanding how systems work at scale —
-designing and engaging with systems built on security by design
-and near-total fault tolerance.
+I build backend systems focused on consistency and reliability —
+distributed pipelines, payment flows, ledgers, authentication and infrastructure that holds up under concurrency and failure.
 
-I keep myself constantly learning, mainly through personal projects and collaborations.
+Interested in systems where correctness matters: fault tolerance, security by design,
+and the kind of guarantees that make production boring in the best way.
+
+Always learning through things I can break, fix, and ship.
 
 ### Stack
 ![Go](https://img.shields.io/badge/Go-main-%2300ADD8?logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23000000?logo=opentelemetry&logoColor=white)
 
 ---
 
@@ -20,7 +24,7 @@ I keep myself constantly learning, mainly through personal projects and collabor
 - Caching strategies (in-memory, distributed, cache invalidation)
 - Security & performance optimization
 - Architecture design & planning
-
+- AI-assisted development (Cursor, Claude Code) as part of a deliberate workflow
 
 ### Beyond the keyboard
 
