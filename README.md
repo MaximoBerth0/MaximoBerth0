@@ -1,36 +1,45 @@
-
 ## Hi, I'm Maximo Berth 👋
 
-I build backend systems focused on consistency and reliability —
-distributed pipelines, payment flows, ledgers, authentication and infrastructure that holds up under concurrency and failure.
+Backend developer focused on building reliable APIs and production-ready systems.
 
-Interested in systems where correctness matters: fault tolerance, security by design,
-and the kind of guarantees that make production boring in the best way.
+I enjoy working on authentication, payment flows, async processing, observability,
+and backend architecture designed to stay maintainable as complexity grows.
 
-Always learning through things I can break, fix, and ship.
+Interested in systems where correctness matters:
+security, fault tolerance, consistency, and infrastructure that behaves predictably under load.
+
+Currently focused on building scalable backend applications with Python, FastAPI and cloud-native tooling.
+
+Always learning through things I can break, improve, and ship.
 
 ### Stack
-![Go](https://img.shields.io/badge/Go-main-%2300ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-main-%233776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8?logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazonaws&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23000000?logo=opentelemetry&logoColor=white)
 
 ---
 
 ### Interests
-- Distributed systems & high concurrency
+- Backend architecture & API design
+- Authentication, authorization & security
 - Observability (tracing, metrics, structured logging)
-- Caching strategies (in-memory, distributed, cache invalidation)
-- Security & performance optimization
-- Architecture design & planning
-- AI-assisted development (Cursor, Claude Code) as part of a deliberate workflow
+- Async processing & reliability patterns
+- PostgreSQL design, transactions & caching strategies
+- Cloud infrastructure & containerized deployments
+- AI-assisted development workflows (Cursor, Claude Code)
+
+---
 
 ### Beyond the keyboard
 
--  I enjoy running and cycling outdoors 🚴
-- I train martial arts as a hobby 🥋 
-- Powered by coffee ☕ 
+- I enjoy running and cycling outdoors 🚴
+- I train martial arts as a hobby 🥋
+- Powered by coffee ☕
 
 ---
 
